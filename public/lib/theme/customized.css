@@ -1,0 +1,42 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  background-image: url("img/old-parchment.jpg");
+  background-size: stretch;
+}
+
+.navbar {
+  color: #000;
+}
+
+#home-header {
+  font-family: 'Indie Flower', cursive;
+  font-size: 150px;
+  color: #000000;
+  font-weight: bold;
+}
+.list-group > a > h4 {
+	font-size: 35px;
+}
+
+label {
+	font-size: 20px;
+}
+
+.form-control {
+	font-size: 20px;
+}
+
+.text-muted {
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+.item-done {
+  text-decoration: line-through;
+}
+
+th a {
+  color: black;
+  text-decoration: underline;
+}
